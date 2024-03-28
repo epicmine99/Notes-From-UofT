@@ -20,7 +20,7 @@ _* Were you able to differentiate what the project does and how it differs from 
 
 _* Any points that would have helped you to get more information on this subject?_
 
-The introduction does a great job at introducing me to the solution, less so the problem. While i can infer what the problem is given the detailed feature and explaination of what the product is, there should also be a seperate section detailing why the music platform exists in isloation from it's larger competitors like spotify and apple music; why do we need another music platform? if the project and problem description could answer that question, I believe this write up would be more compelling. Other than that, the project is described well; short and sweet, and the feature list is to the point without any needless wording. I was well able to understand what this music platform would look like and it's key draws, that being a more honest, gamified, and interactive listening experience with aditional functionality surrounding merchandise and payment options. In summary, I think adding a section that can detail the problem that the software aims to solve would be very helpful in understanding the need of this software, and in that section you can detail the differences between this new platform and existing solutions. 
+The introduction does a great job at introducing me to the solution, less so the problem. While i can infer what the problem is given the detailed feature and explaination of what the product is, there should also be a seperate section detailing why the music platform exists in isloation from it's larger competitors like spotify and apple music; why is popularity a bad thing? is the metric not accurate for the most amount of people, or is it that this platform specifically targetting users that want a niche listening expeirence? that is what I understand from the demo video and readme, but specifically listing the pros and cons as well as target demographics would be helpful in painting the whole picture. Other than that, the project demo and general readme is described well; short and sweet, and the feature list is to the point without any needless wording. I was well able to understand what this music platform would look like and it's key draws, that being a more honest, gamified, and interactive listening experience with aditional functionality surrounding merchandise and payment options. In summary, I think adding a section that can detail the problem that the software aims to solve would be very helpful in understanding the need of this software, and in that section you can detail the differences between this new platform and existing solutions. 
 
 
 ### Demo of the application:
@@ -32,12 +32,19 @@ _* Did the demo help you in forming a good understanding of the application?_
 
 _* Any points that would have helped you to get more information on this subject?_
 
+Aesthetics look great, love the purple! the pages are all well populated and layed out. in terms of the core machine learning feature, its hard to verify that the algorithm works if all the inputs are pre-set. forward and back buttons are simple functionality which should be included. blind player looks great! sound quality is great! song reveal function works just as detailed. images for the song should be implemented as it is also basic functionality. perks page looks good aesthetically, but why do songs have quantity? is that a specific feature requested? otherwise I would remove it. does the progression bar representing how far you are in the song actually move? it starts at seemingly 10% into the song (at least thats what it looks like) but isn't shown to move. I think that the demo is good for the most part, but the actual product leaves a lot to be desired; the app should have probably completed basic functionality before moving onto the more impressive features; as a music playing app, basic music functionality is a nessessity.  
+
 ### Technical Discussion & Key Learnings:
 _* Were you able to understand the technical aspects of the project?_
 
 _* Do the key learnings presented by the team make sense, are concrete and achievable, and will help to improve the project?_
 
 _* Any points that would have helped you to get more information on this subject?_
+
+The graphic leaves a bit to be desired. I think the break up makes sense, but can be aesthetically better to represent the information. There is also simple, to the point bullet points but then long complicated sentences that really throw off my focus. It is also hard to read the longer sentences from the graphic. The frontend, backend, and machine learning explainations were very detailed and really helped me understand what the team was doing. The machine learning was a lot more detail, which I think was warrented due to it's higher technical nature; however, I wish the frontend and backend had more detailed graphics like the ML side to help better explain each sub area (the verbal explainations were great though). Key learnings were great, component breakup of react code is a very good thing to learn! backend key learning was fairly general and wasn't really a backend key finding but rather a communication problem; this was kinda the same key learning as the machine learning section. I actually disagree with the "too much research time" key finding; research is VERY important, and there is a fixed amount of research time that is required when learning new technologies. What might be more accurate to the problem is focused research and making sure you are researching what you'll acutally be implementing/using. 
+
+
+
 
 ### Project Documentation:
 _* Was the project readme easy to follow and gives all the necessary details about the project?_
