@@ -1,9 +1,5 @@
 ## D4 - Project Review
 
-Please fill in the template below. Some suggestions have been provided to help you understand how to answer each segment.
-
-Before submission, please replace the suggestions (in italics) with your answers. You can keep the prompts though.
-
 ### Project Name: PNYX
 ### Team Name, Team Number: Team 7, Project 25
 ### Github Link: [https://github.com/csc301-2024-s/25-pnyx](https://github.com/csc301-2024-s/25-pnyx)
